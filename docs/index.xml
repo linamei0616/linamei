@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://linamei.com/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <title>Lina Mei</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lina Mei</description>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jan 2025 19:52:09 -0600</lastBuildDate>
-    <atom:link href="https://linamei.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://linamei.com/posts/my-first-post/</link>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 22 Jan 2025 19:52:09 -0600</pubDate>
-      <guid>https://linamei.com/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Making changes here&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
