@@ -15,5 +15,13 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/resume/Lina_Mei_Resume.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;View Resume &lt;/a&gt;&lt;/p&gt;
+&lt;!-- ![Resume](/resume/Lina_Mei_Resume.pdf) --&gt;</description>
+    </item>
   </channel>
 </rss>

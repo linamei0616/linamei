@@ -29,3 +29,8 @@ menu:
       name: resume
       url: /resume/
       weight: 20
+      
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
