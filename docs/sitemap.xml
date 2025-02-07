@@ -2,21 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-01-22T19:52:09-06:00</lastmod>
+    <loc>https://linamei.com/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-22T19:52:09-06:00</lastmod>
+    <loc>https://linamei.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-22T19:52:09-06:00</lastmod>
+    <loc>https://linamei.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://linamei.com/posts/my-first-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://linamei.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://linamei.com/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://linamei.com/search/</loc>
+  </url><url>
+    <loc>https://linamei.com/tags/</loc>
   </url>
 </urlset>
