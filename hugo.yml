@@ -1,4 +1,4 @@
-baseURL: 'https://linamei.com/'
+baseURL: 'https://www.linamei.com/'
 languageCode: en-us
 title: Lina Mei
 theme: PaperMod
@@ -18,7 +18,7 @@ params:
 
   socialIcons: # optional
     - name: "github"
-      url: "https://github.com/linamei0616"
+      url: "https://www.github.com/linamei0616"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/linamei0616/"
     - name: "email"

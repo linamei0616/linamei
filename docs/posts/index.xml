@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Lina Mei</title>
-    <link>https://linamei.com/posts/</link>
+    <link>https://www.linamei.com/posts/</link>
     <description>Recent content in Posts on Lina Mei</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
-    <atom:link href="https://linamei.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.linamei.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming soon...</title>
-      <link>https://linamei.com/posts/my-first-post/</link>
+      <link>https://www.linamei.com/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://linamei.com/posts/my-first-post/</guid>
+      <guid>https://www.linamei.com/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
