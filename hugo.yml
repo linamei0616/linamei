@@ -8,27 +8,16 @@ params:
   # defaultTheme: light
   # defaultTheme: dark
   defaultTheme: auto # to switch between dark or light according to browser theme
-  images: ["content/static/media/cat_glasses.jpg"]
-
-  title: "Portfolio"
-  description: "linamei digi world"
-  images:
-    - "/media/cat_glasses.jpg"  # Thumbnail for social previews
-
 
   homeInfoParams:
     Title: hi :3
-    Content: i'm currently studying at UIUC and part-time interning at Adyen!
+    Content: this is a work in progress, follow me to stay updated
 
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/linamei0616"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/linamei0616/"
-    - name: "email"
-      url: "mailto:linamei0616@gmail.com"
-
-  
     
 menu:
   main:
@@ -38,13 +27,5 @@ menu:
       weight: 10
     - identifier: resume
       name: resume
-      url: /resume
+      url: /resume/
       weight: 20
-
-ignoreLogs:
-  - warning-goldmark-raw-html
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true

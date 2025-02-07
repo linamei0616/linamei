@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shortcodes on Lina Mei</title>
+    <link>http://localhost:65250/tags/shortcodes/</link>
+    <description>Recent content in Shortcodes on Lina Mei</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:65250/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>http://localhost:65250/posts/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:65250/posts/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+  </channel>
+</rss>
