@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Lina Mei</title>
-    <link>http://localhost:59042/posts/</link>
+    <link>https://linamei.com/posts/</link>
     <description>Recent content in Posts on Lina Mei</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jan 2025 19:52:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:59042/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://linamei.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:59042/posts/my-first-post/</link>
+      <link>https://linamei.com/posts/my-first-post/</link>
       <pubDate>Wed, 22 Jan 2025 19:52:09 -0600</pubDate>
-      <guid>http://localhost:59042/posts/my-first-post/</guid>
+      <guid>https://linamei.com/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;</description>
     </item>
   </channel>
