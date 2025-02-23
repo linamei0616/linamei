@@ -11,7 +11,6 @@ assetDir: "assets"
 
 params:
   defaultTheme: auto # to switch between dark or light according to browser theme
-
   title: "Portfolio"
   description: "linamei digi world"
   images:
@@ -20,10 +19,8 @@ params:
   homeInfoParams:
     Title: hi :3
     Content: >
-      I'm currently studying at UIUC and part-time interning at Adyen.
-
-      - Connect with me to stay up to date!
-
+      I'm currently studying at UIUC and part-time interning at <a href="https://www.adyen.com/" target="_blank" rel="noopener noreferrer" class="links">Adyen</a>.
+      <br> Connect with me to stay up to date!
 
   socialIcons:
     - name: "github"
@@ -49,4 +46,4 @@ ignoreLogs:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true     # Allows raw HTML (like <br>)
