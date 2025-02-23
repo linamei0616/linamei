@@ -13,6 +13,13 @@
     <language>en-us</language>
     <atom:link href="https://linamei.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Adyen</title>
+      <link>https://linamei.com/posts/adyen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://linamei.com/posts/adyen/</guid>
+      <description>📍 Chicago, IL &lt;br&gt; Fintech &lt;br&gt; Current Part-time internship</description>
+    </item>
+    <item>
       <title>Coming soon...</title>
       <link>https://linamei.com/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
