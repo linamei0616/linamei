@@ -13,6 +13,7 @@ params:
   defaultTheme: auto # to switch between dark or light according to browser theme
   title: "Portfolio"
   description: "linamei digi world"
+  favicon: "/favicon"
   images:
     - "/cat_glasses.jpg"  # Thumbnail for social previews
 

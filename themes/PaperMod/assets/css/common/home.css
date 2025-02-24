@@ -1,0 +1,52 @@
+ /* Customization */
+ /* For Adyen Link */
+ 
+ .links {
+     color: #1e90ff;
+     text-decoration: none;
+     /* Remove default underline */
+     border-bottom: 1px solid #1e90ff;
+     /* Stylish underline effect */
+     transition: all 0.3s ease;
+ }
+ 
+ .links:hover {
+     color: #ff7f50;
+     /* Coral color on hover */
+     border-bottom-color: #ff7f50;
+ }
+ 
+ .home-header {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     gap: 40px;
+ }
+ /* Title and text styling */
+ 
+ .home-header h1 {
+     font-size: 3rem;
+     margin: 0;
+ }
+ 
+ .home-header p {
+     font-size: 1.0rem;
+     margin-top: 10px;
+ }
+ /* Profile image adjustments */
+ 
+ .profile-image {
+     width: 180px;
+     height: 180px;
+     border-radius: 50%;
+     object-fit: cover;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+ }
+ /* Social icons alignment */
+ 
+ .entry-footer {
+     display: flex;
+     justify-content: flex-start;
+     gap: 16px;
+     margin-top: 20px;
+ }
