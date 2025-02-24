@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Lina Mei</title>
-    <link>http://localhost:59977/tags/</link>
+    <link>https://linamei.com/tags/</link>
     <description>Recent content in Tags on Lina Mei</description>
     <image>
       <title>Lina Mei</title>
-      <url>http://localhost:59977/cat_glasses.jpg</url>
-      <link>http://localhost:59977/cat_glasses.jpg</link>
+      <url>https://linamei.com/cat_glasses.jpg</url>
+      <link>https://linamei.com/cat_glasses.jpg</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:59977/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://linamei.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

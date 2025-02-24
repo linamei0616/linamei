@@ -50,3 +50,35 @@
      gap: 16px;
      margin-top: 20px;
  }
+ /* Responsive design for mobile */
+ 
+ @media (max-width: 768px) {
+     .home-header {
+         flex-direction: column;
+         align-items: center;
+         text-align: center;
+     }
+     .profile-image {
+         width: 150px;
+         height: 150px;
+     }
+     .entry-footer {
+         justify-content: center;
+     }
+ }
+ 
+ @media (max-width: 480px) {
+     .profile-image {
+         width: 120px;
+         height: 120px;
+     }
+     .home-header h1 {
+         font-size: 2.5rem;
+     }
+     .home-header p {
+         font-size: 0.9rem;
+     }
+     .entry-footer {
+         justify-content: center;
+     }
+ }
