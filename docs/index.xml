@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lina Mei</title>
-    <link>https://linamei.com/</link>
+    <link>http://localhost:59977/</link>
     <description>Recent content on Lina Mei</description>
     <image>
       <title>Lina Mei</title>
-      <url>https://linamei.com/cat_glasses.jpg</url>
-      <link>https://linamei.com/cat_glasses.jpg</link>
+      <url>http://localhost:59977/cat_glasses.jpg</url>
+      <link>http://localhost:59977/cat_glasses.jpg</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
-    <atom:link href="https://linamei.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59977/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://linamei.com/resume/</link>
+      <link>http://localhost:59977/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://linamei.com/resume/</guid>
+      <guid>http://localhost:59977/resume/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;./Lina_Mei_Resume.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;View My Resume (PDF)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Resume&#34; loading=&#34;lazy&#34; src=&#34;./resume.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adyen</title>
-      <link>https://linamei.com/posts/adyen/</link>
+      <link>http://localhost:59977/posts/adyen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://linamei.com/posts/adyen/</guid>
+      <guid>http://localhost:59977/posts/adyen/</guid>
       <description>📍 Chicago, IL &lt;br&gt; Fintech &lt;br&gt; Current Part-time internship</description>
     </item>
     <item>
       <title>Coming soon...</title>
-      <link>https://linamei.com/posts/my-first-post/</link>
+      <link>http://localhost:59977/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://linamei.com/posts/my-first-post/</guid>
+      <guid>http://localhost:59977/posts/my-first-post/</guid>
       <description>&lt;p&gt;No sneak peaks!&lt;/p&gt;</description>
     </item>
   </channel>
