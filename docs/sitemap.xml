@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59977/resume/</loc>
+    <loc>https://linamei.com/posts/adyen/</loc>
   </url><url>
-    <loc>http://localhost:59977/posts/adyen/</loc>
+    <loc>https://linamei.com/posts/ucp/</loc>
   </url><url>
-    <loc>http://localhost:59977/archives/</loc>
+    <loc>https://linamei.com/posts/portfolio-creation/</loc>
   </url><url>
-    <loc>http://localhost:59977/categories/</loc>
+    <loc>https://linamei.com/posts/wildhacks2025/</loc>
   </url><url>
-    <loc>http://localhost:59977/posts/my-first-post/</loc>
+    <loc>https://linamei.com/</loc>
+    <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59977/</loc>
+    <loc>https://linamei.com/posts/</loc>
+    <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:59977/posts/</loc>
+    <loc>https://linamei.com/resume/</loc>
   </url><url>
-    <loc>http://localhost:59977/search/</loc>
+    <loc>https://linamei.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:59977/tags/</loc>
+    <loc>https://linamei.com/categories/</loc>
+  </url><url>
+    <loc>https://linamei.com/search/</loc>
+  </url><url>
+    <loc>https://linamei.com/tags/</loc>
   </url>
 </urlset>
