@@ -20,8 +20,9 @@ params:
   homeInfoParams:
     Title: hi :3
     Content: >
-      I'm currently studying at UIUC and part-time interning at <a href="https://www.adyen.com/" target="_blank" rel="noopener noreferrer" class="links">Adyen</a>.
-      <br> Connect with me to stay up to date!
+      I'm currently a java software engineer at <a href="https://www.adyen.com/" target="_blank" rel="noopener noreferrer" class="links">Adyen</a>.
+      <br> This is my portfolio to keep track of things I want to write about.
+      <br> Connect with me to stay up to date !
 
   socialIcons:
     - name: "github"
@@ -32,9 +33,9 @@ params:
       url: "mailto:linamei0616@gmail.com" 
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: experience
+      name: experience
+      url: /experience/
       weight: 10
     - identifier: resume
       name: resume
